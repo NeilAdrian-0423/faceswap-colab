@@ -1,0 +1,5 @@
+# build tooling / local scratch
+builder.py
+app_cell.py
+__pycache__/
+*.pyc
