@@ -1,6 +1,6 @@
 # 🎭 Face Swap for Colab (photos & videos)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nitrodamsel/faceswap-colab/blob/main/faceswap_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neiladrian-0423/faceswap-colab/blob/main/faceswap_colab.ipynb)
 
 One-image face swap with a **drag-and-drop UI**. Upload a **source face** and a **target photo or video**, click **Swap**, and download the result — no manual file paths, no editing cells.
 
